@@ -708,7 +708,7 @@ Libraries that enhance stack trace information
 ## 20Q. ***What are some of the most popular modules of Node.js?***
 
 * **Async**: Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
-* **Browserify**: Browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag.
+* **Browserify**: Browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single `<script>` tag.
 * **Bower**: Bower is a package manager for the web. It works by fetching and installing packages from all over, taking care of hunting, finding, downloading, and saving the stuff you’re looking for.
 * **Backbone**: Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.
 * **Csv**: csv module has four sub modules which provides CSV generation, parsing, transformation and serialization for Node.js.
