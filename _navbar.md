@@ -4,12 +4,17 @@
 * Javascript
 
   * [Javascript](./docs/js-javascript.md)
+  * [Javascript 1](./docs/js-js1.md)
+  * [JS Es6](./docs/js-es6.md)
+  * [JS Unit Testing](./docs/js-js-ut.md)
+  * [TypeScript](./docs/js-ts.md)
   * [Node JS](./docs/js-nodejs.md)
   * [Node JS 1](./docs/js-node1.md)
   * [Node JS API](./docs/js-nodejs-api.md)
   * [ReactJS](./docs/js-react-js.md)
   * [ReactNative](./docs/js-react-native.md)
   * [Angular](./docs/js-angular.md)
+  * [Angular Unit Test](./docs/js-angular-ut.md)
   * [Angular JS](./docs/js-angularjs.md)
   * [Jquery](./docs/js-jquery.md)
 
@@ -33,4 +38,5 @@
 * Database
 
   * [Mongo DB](./docs/db-mongo.md)
+  * [Mongo DB CMd](./docs/db-mongo-cmd.md)
   * [Dynamo DB](./docs/db-dynamodb.md)
