@@ -27,13 +27,11 @@
   * [Bootstrap](./docs/css-bootstrap.md)
   * [Material Design](./docs/css-material.md)
   
-
 * HTML
 
   * [HTML](./docs/html-html.md)
   * [HTML Tags](./docs/html-tags.md)
   * [HTML 5 Event List](./docs/html-5-eventlist.md)
-
 
 * Database
 
