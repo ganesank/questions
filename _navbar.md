@@ -17,6 +17,9 @@
   * [Angular Unit Test](./docs/js-angular-ut.md)
   * [Angular JS](./docs/js-angularjs.md)
   * [Jquery](./docs/js-jquery.md)
+
+* IAC
+
   * [Terraform](./docs/terraform_interview_questions.md)
 
 * CSS
@@ -37,5 +40,4 @@
 * Database
 
   * [Mongo DB](./docs/db-mongo.md)
-  * [Mongo DB CMd](./docs/db-mongo-cmd.md)
-  * [Dynamo DB](./docs/db-dynamodb.md)
+  * [Mongo DB CMd](./docs/db-mongo-cmd.md) 
