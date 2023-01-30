@@ -33,3 +33,6 @@
 
   * [Mongo DB](./docs/db-mongo.md)
   * [Dynamo DB](./docs/db-dynamodb.md)
+* IAC
+
+  * [Terraform](./docs/terraform_interview_questions.md) 
